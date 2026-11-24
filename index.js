@@ -1,8 +1,8 @@
-require("./Task2/2a");
-require("./Task2/2b");
-require("./Task2/2c");
-require("./Task2/2d");
-require("./Task2/2e");
-require("./Task2/2f");
-require("./Task2/2g");
-require("./Task2/2h");
+require("./Task2_Basic_JavaScript/2a");
+require("./Task2_Basic_JavaScript/2b");
+require("./Task2_Basic_JavaScript/2c");
+require("./Task2_Basic_JavaScript/2d");
+require("./Task2_Basic_JavaScript/2e");
+require("./Task2_Basic_JavaScript/2f");
+require("./Task2_Basic_JavaScript/2g");
+require("./Task2_Basic_JavaScript/2h");
